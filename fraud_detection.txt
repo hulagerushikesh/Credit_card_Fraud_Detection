@@ -1,0 +1,11 @@
+                                                 %%%%%%  CREDIT CARD FRAUD DAETECTION  %%%%%%
+
+
+
+AIM : In this project we are going to improve the recovery of the credit card loan repayments. By using machine learning we are going to detect 
+      the frauds and make payments more securely.
+
+     
+      Now directly moving towards the machine learning part lets understand the about frauds and how dose this fraud works.
+   
+Nowadays there are lots 
